@@ -1,0 +1,21 @@
+Google Youtube docs (developer) - https://developers.google.com/youtube/v3/docs
+
+Google API - https://console.cloud.google.com/
+
+Json to dictionary - https://jsonformatter.curiousconcept.com/#	
+
+
+
+
+Video Name - Find YOUTUBE CHANNEL ID Of Any Channel Like A PRO Easy - YouTube Secrets Tutorial
+
+channel name - Visualmodo
+
+link = https://youtu.be/zNABOcxGkt8 
+
+
+or 
+
+
+comment picker website to get channel id = 
+url - https://commentpicker.com/youtube-channel-id.php
