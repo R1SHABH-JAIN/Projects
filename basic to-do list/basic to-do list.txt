@@ -1,0 +1,17 @@
+# Basic-Todo-list
+Basic Todo list
+
+1.issme zayada features nhi hai
+
+2.function banaya hai "def" 
+
+3.basic while loop   
+
+4.normal list usske sath append use kiya hai 
+
+5.for loop hai usske sath range hai 
+
+6.while loop ke sath True iss leye taaki humara code baar baar run ho
+or choice == 4 pe break hai taki true wala point tuut jaye
+
+7.aakhir mai function ko call kara hai 
